@@ -1,4 +1,4 @@
-baseURL = "http://socialworkstats.org/"
+baseURL = "https://socialworkstats.org/"
 languageCode = "en-us"
 title = "Social Work Stats"
 theme = "minimal"
